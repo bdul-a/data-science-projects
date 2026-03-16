@@ -1,0 +1,11 @@
+# datasets
+financial-transaction-fraud-detection/data/
+sales-analysis-project/data/
+
+# environments
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints
